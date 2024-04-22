@@ -12,3 +12,4 @@ A repository created for big data assignment.
 ### Pre-processing
 we have used **DASK LIBRARY** for our pre-processing which allows batch processing and works well for large datasets.
 Normally when we used pandas in our assignment number 2 then it took 20 - 30 mins in order to pre-process.
+DASK is specifically designed for the purpose to speed up the work for large datasets which in our case was of 15 gb.
