@@ -82,3 +82,11 @@ This script demonstrates the SON (Savasere, Omiecinski, and Navathe) algorithm f
 - filter_frequent_pairs: Filters frequent pairs.
 - apply_son: Applies the SON algorithm.
 
+---
+## Mongodb Database
+lastly we have used the mongodb to store the frequent itemsets generated through A priori into the database.
+
+
+
+
+
