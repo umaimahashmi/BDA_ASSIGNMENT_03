@@ -36,7 +36,7 @@ This demonstration implements the Apriori algorithm, a classic in data mining fo
 
 ---
 
-## PCY Algorithm Implementation in Kafka Consumer
+## Consumer 2: PCY Algorithm Implementation
 
 This script demonstrates the PCY (Pair Counting with Bitmaps) algorithm for identifying frequent pairs from transactional data in Kafka.
 
@@ -60,7 +60,7 @@ This script demonstrates the PCY (Pair Counting with Bitmaps) algorithm for iden
 
 ---
 
-## SON Algorithm Implementation in Kafka Consumer
+## Consumer 3: SON Algorithm Implementation
 
 This script demonstrates the SON (Savasere, Omiecinski, and Navathe) algorithm for finding frequent item pairs efficiently from Kafka data.
 
